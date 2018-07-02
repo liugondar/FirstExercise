@@ -1,0 +1,3 @@
+rootProject.name = 'FirstEx'
+
+include ':app'
