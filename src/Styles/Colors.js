@@ -26,7 +26,8 @@ const colors = {
   white: '#FFFFFF',
   cosmicLatte: '#D1F5EB',
   mediumPurple: '#986DD8',
-  black: '#000000'
+  black: '#000000',
+  violet: '#C40093'
 };
 
 export default colors;
